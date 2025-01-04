@@ -1,0 +1,6 @@
+{
+    "build_pack": "dockerimage",
+    "base_directory": "/",
+    "publish_directory": "/",
+    "ports_exposes": "4321"
+}
