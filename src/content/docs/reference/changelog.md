@@ -3,6 +3,12 @@ title: Changelog
 description: Minenkolonien modpack changes
 ---
 
+## v0.0.5
+
+- Added `Better Compatibility Checker` mod
+- Added `Modpack Update Checker` mod
+
+
 ## v0.0.4
 
 - Fix `options.txt` overrides
