@@ -1,6 +1,7 @@
 # Starlight Starter Kit: Basics
 
 [![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
+![mc.delass.ee](https://img.shields.io/endpoint?url=https%3A%2F%2Fminecraft-server-status-badge.vercel.app%2Fapi%2Fserver%2Fmc.delass.ee%3Fport%3D25565)
 
 ```
 npm create astro@latest -- --template starlight
