@@ -24,11 +24,13 @@ services:
       EULA: "TRUE"
       ICON: "https://media.forgecdn.net/avatars/thumbnails/1147/694/64/64/638714469411914405.png"
       CF_API_KEY: "${CF_API_KEY}"
-      CF_PAGE_URL: "https://www.curseforge.com/minecraft/modpacks/minenkolonien/files/6047134"
+      CF_PAGE_URL: "https://www.curseforge.com/minecraft/modpacks/minenkolonien"
       OPS: |
         soudasuwa
       CF_EXCLUDE_MODS: |
         yungs-menu-tweaks
+      CF_FORCE_INCLUDE_MODS: |
+        iceberg
     volumes:
       - ./data:/data
 ```
