@@ -7,6 +7,7 @@ description: Minenkolonien modpack changes
 
 - Added `Better Compatibility Checker` mod
 - Added `Modpack Update Checker` mod
+- Created official modpack [minenkolonien](https://github.com/soudasuwa/minenkolonien) GitHub repository.
 
 
 ## v0.0.4
