@@ -25,6 +25,13 @@ export default defineConfig({
                   label: 'Reference',
                   autogenerate: { directory: 'reference' },
               },
+              {
+                  label: 'Release Notes',
+                  items: [
+                      // Each item here is one entry in the navigation menu.
+                      { label: 'v0.0.3', slug: 'release/v0.0.3' },
+                  ],
+              },
           ],
       }),
 	],
