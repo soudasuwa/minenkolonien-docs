@@ -9,7 +9,7 @@ export default defineConfig({
   output: 'server',
   integrations: [
       starlight({
-          title: 'Minenkolonien Docs',
+          title: 'Minenkolonien',
           social: {
               github: 'https://github.com/soudasuwa/minenkolonien-docs',
           },
